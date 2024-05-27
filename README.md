@@ -14,4 +14,5 @@ All this report was writing in Portuguese. (Sorry :/). I hope that the code was 
 
 This job was used as a requirement to my graduation as a civil engeneer in the Federal University of Santa Catarina (UFSC). Any questions, please write to me. My linkedin: https://www.linkedin.com/in/leonardo-ramos-a31a73a7/
 
-Thats the beauty on Linkedin, heuheuehhu
+Thats the beauty on Linkedin, hehe
+
